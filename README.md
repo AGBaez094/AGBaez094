@@ -1,7 +1,8 @@
 <h1 align="center">Hi 👋, I'm Adriana</h1>
 <h3 align="center">A passionate Engineer in frontend development and Data Science!!</h3>
 
-[![trophy](https://github-profile-trophy.vercel.app/?AGBaez094=ryo-ma)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=AGBaez094)](https://github.com/ryo-ma/github-profile-trophy)
+
 
 
 - 🔭 I’m currently working on **personal projects**
